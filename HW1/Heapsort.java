@@ -1,4 +1,4 @@
-package Algorithm;
+package Algorithm.HW1;
 
 /**
  * Сортировка кучей, пирамидальная сортировка
